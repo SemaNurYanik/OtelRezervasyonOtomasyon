@@ -1,0 +1,72 @@
+D:\Bilge Adam\VS Kodlar\OtelGrupProjesi\Otel.BLL\bin\Debug\Otel.BLL.dll
+D:\Bilge Adam\VS Kodlar\OtelGrupProjesi\Otel.BLL\bin\Debug\Otel.BLL.pdb
+D:\Bilge Adam\VS Kodlar\OtelGrupProjesi\Otel.BLL\bin\Debug\Otel.DAL.dll
+D:\Bilge Adam\VS Kodlar\OtelGrupProjesi\Otel.BLL\bin\Debug\Otel.Entities.dll
+D:\Bilge Adam\VS Kodlar\OtelGrupProjesi\Otel.BLL\bin\Debug\Otel.DAL.pdb
+D:\Bilge Adam\VS Kodlar\OtelGrupProjesi\Otel.BLL\bin\Debug\Otel.DAL.dll.config
+D:\Bilge Adam\VS Kodlar\OtelGrupProjesi\Otel.BLL\bin\Debug\Otel.Entities.pdb
+D:\Bilge Adam\VS Kodlar\OtelGrupProjesi\Otel.BLL\obj\Debug\Otel.BLL.csprojResolveAssemblyReference.cache
+D:\Bilge Adam\VS Kodlar\OtelGrupProjesi\Otel.BLL\obj\Debug\Otel.BLL.csproj.CoreCompileInputs.cache
+D:\Bilge Adam\VS Kodlar\OtelGrupProjesi\Otel.BLL\obj\Debug\Otel.BLL.csproj.CopyComplete
+D:\Bilge Adam\VS Kodlar\OtelGrupProjesi\Otel.BLL\obj\Debug\Otel.BLL.dll
+D:\Bilge Adam\VS Kodlar\OtelGrupProjesi\Otel.BLL\obj\Debug\Otel.BLL.pdb
+C:\Users\kaan.kilavuz\Desktop\New folder\OtelGrupProjesi\Otel.BLL\bin\Debug\Otel.BLL.dll
+C:\Users\kaan.kilavuz\Desktop\New folder\OtelGrupProjesi\Otel.BLL\bin\Debug\Otel.BLL.pdb
+C:\Users\kaan.kilavuz\Desktop\New folder\OtelGrupProjesi\Otel.BLL\bin\Debug\Otel.DAL.dll
+C:\Users\kaan.kilavuz\Desktop\New folder\OtelGrupProjesi\Otel.BLL\bin\Debug\Otel.Entities.dll
+C:\Users\kaan.kilavuz\Desktop\New folder\OtelGrupProjesi\Otel.BLL\bin\Debug\Otel.DAL.pdb
+C:\Users\kaan.kilavuz\Desktop\New folder\OtelGrupProjesi\Otel.BLL\bin\Debug\Otel.DAL.dll.config
+C:\Users\kaan.kilavuz\Desktop\New folder\OtelGrupProjesi\Otel.BLL\bin\Debug\Otel.Entities.pdb
+C:\Users\kaan.kilavuz\Desktop\New folder\OtelGrupProjesi\Otel.BLL\obj\Debug\Otel.BLL.csprojAssemblyReference.cache
+C:\Users\kaan.kilavuz\Desktop\New folder\OtelGrupProjesi\Otel.BLL\obj\Debug\Otel.BLL.csproj.CoreCompileInputs.cache
+C:\Users\kaan.kilavuz\Desktop\New folder\OtelGrupProjesi\Otel.BLL\obj\Debug\Otel.BLL.csproj.CopyComplete
+C:\Users\kaan.kilavuz\Desktop\New folder\OtelGrupProjesi\Otel.BLL\obj\Debug\Otel.BLL.dll
+C:\Users\kaan.kilavuz\Desktop\New folder\OtelGrupProjesi\Otel.BLL\obj\Debug\Otel.BLL.pdb
+C:\Users\a-col\OneDrive\Masaüstü\Son Vesiyon\En son\OtelGrupProjesi\Otel.BLL\bin\Debug\Otel.BLL.dll
+C:\Users\a-col\OneDrive\Masaüstü\Son Vesiyon\En son\OtelGrupProjesi\Otel.BLL\bin\Debug\Otel.BLL.pdb
+C:\Users\a-col\OneDrive\Masaüstü\Son Vesiyon\En son\OtelGrupProjesi\Otel.BLL\bin\Debug\Otel.DAL.dll
+C:\Users\a-col\OneDrive\Masaüstü\Son Vesiyon\En son\OtelGrupProjesi\Otel.BLL\bin\Debug\Otel.Entities.dll
+C:\Users\a-col\OneDrive\Masaüstü\Son Vesiyon\En son\OtelGrupProjesi\Otel.BLL\bin\Debug\Otel.DAL.pdb
+C:\Users\a-col\OneDrive\Masaüstü\Son Vesiyon\En son\OtelGrupProjesi\Otel.BLL\bin\Debug\Otel.DAL.dll.config
+C:\Users\a-col\OneDrive\Masaüstü\Son Vesiyon\En son\OtelGrupProjesi\Otel.BLL\bin\Debug\Otel.Entities.pdb
+C:\Users\a-col\OneDrive\Masaüstü\Son Vesiyon\En son\OtelGrupProjesi\Otel.BLL\obj\Debug\Otel.BLL.csprojAssemblyReference.cache
+C:\Users\a-col\OneDrive\Masaüstü\Son Vesiyon\En son\OtelGrupProjesi\Otel.BLL\obj\Debug\Otel.BLL.csproj.CoreCompileInputs.cache
+C:\Users\a-col\OneDrive\Masaüstü\Son Vesiyon\En son\OtelGrupProjesi\Otel.BLL\obj\Debug\Otel.BLL.csproj.CopyComplete
+C:\Users\a-col\OneDrive\Masaüstü\Son Vesiyon\En son\OtelGrupProjesi\Otel.BLL\obj\Debug\Otel.BLL.dll
+C:\Users\a-col\OneDrive\Masaüstü\Son Vesiyon\En son\OtelGrupProjesi\Otel.BLL\obj\Debug\Otel.BLL.pdb
+C:\Users\kaan.kilavuz\Desktop\Son Vesiyon\En son\OtelGrupProjesi\Otel.BLL\bin\Debug\Otel.BLL.dll
+C:\Users\kaan.kilavuz\Desktop\Son Vesiyon\En son\OtelGrupProjesi\Otel.BLL\bin\Debug\Otel.BLL.pdb
+C:\Users\kaan.kilavuz\Desktop\Son Vesiyon\En son\OtelGrupProjesi\Otel.BLL\bin\Debug\Otel.DAL.dll
+C:\Users\kaan.kilavuz\Desktop\Son Vesiyon\En son\OtelGrupProjesi\Otel.BLL\bin\Debug\Otel.Entities.dll
+C:\Users\kaan.kilavuz\Desktop\Son Vesiyon\En son\OtelGrupProjesi\Otel.BLL\bin\Debug\Otel.DAL.pdb
+C:\Users\kaan.kilavuz\Desktop\Son Vesiyon\En son\OtelGrupProjesi\Otel.BLL\bin\Debug\Otel.DAL.dll.config
+C:\Users\kaan.kilavuz\Desktop\Son Vesiyon\En son\OtelGrupProjesi\Otel.BLL\bin\Debug\Otel.Entities.pdb
+C:\Users\kaan.kilavuz\Desktop\Son Vesiyon\En son\OtelGrupProjesi\Otel.BLL\obj\Debug\Otel.BLL.csprojAssemblyReference.cache
+C:\Users\kaan.kilavuz\Desktop\Son Vesiyon\En son\OtelGrupProjesi\Otel.BLL\obj\Debug\Otel.BLL.csproj.CoreCompileInputs.cache
+C:\Users\kaan.kilavuz\Desktop\Son Vesiyon\En son\OtelGrupProjesi\Otel.BLL\obj\Debug\Otel.BLL.csproj.CopyComplete
+C:\Users\kaan.kilavuz\Desktop\Son Vesiyon\En son\OtelGrupProjesi\Otel.BLL\obj\Debug\Otel.BLL.dll
+C:\Users\kaan.kilavuz\Desktop\Son Vesiyon\En son\OtelGrupProjesi\Otel.BLL\obj\Debug\Otel.BLL.pdb
+C:\Users\Esra\Desktop\Son_Vesiyon\Son Vesiyon\En son\OtelGrupProjesi\Otel.BLL\bin\Debug\Otel.BLL.dll
+C:\Users\Esra\Desktop\Son_Vesiyon\Son Vesiyon\En son\OtelGrupProjesi\Otel.BLL\bin\Debug\Otel.BLL.pdb
+C:\Users\Esra\Desktop\Son_Vesiyon\Son Vesiyon\En son\OtelGrupProjesi\Otel.BLL\bin\Debug\Otel.DAL.dll
+C:\Users\Esra\Desktop\Son_Vesiyon\Son Vesiyon\En son\OtelGrupProjesi\Otel.BLL\bin\Debug\Otel.Entities.dll
+C:\Users\Esra\Desktop\Son_Vesiyon\Son Vesiyon\En son\OtelGrupProjesi\Otel.BLL\bin\Debug\Otel.DAL.pdb
+C:\Users\Esra\Desktop\Son_Vesiyon\Son Vesiyon\En son\OtelGrupProjesi\Otel.BLL\bin\Debug\Otel.DAL.dll.config
+C:\Users\Esra\Desktop\Son_Vesiyon\Son Vesiyon\En son\OtelGrupProjesi\Otel.BLL\bin\Debug\Otel.Entities.pdb
+C:\Users\Esra\Desktop\Son_Vesiyon\Son Vesiyon\En son\OtelGrupProjesi\Otel.BLL\obj\Debug\Otel.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Esra\Desktop\Son_Vesiyon\Son Vesiyon\En son\OtelGrupProjesi\Otel.BLL\obj\Debug\Otel.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Esra\Desktop\Son_Vesiyon\Son Vesiyon\En son\OtelGrupProjesi\Otel.BLL\obj\Debug\Otel.BLL.csproj.CopyComplete
+C:\Users\Esra\Desktop\Son_Vesiyon\Son Vesiyon\En son\OtelGrupProjesi\Otel.BLL\obj\Debug\Otel.BLL.dll
+C:\Users\Esra\Desktop\Son_Vesiyon\Son Vesiyon\En son\OtelGrupProjesi\Otel.BLL\obj\Debug\Otel.BLL.pdb
+C:\Users\Sema\Desktop\Yeni klasör\OtelGrupProjesi\Otel.BLL\bin\Debug\Otel.BLL.dll
+C:\Users\Sema\Desktop\Yeni klasör\OtelGrupProjesi\Otel.BLL\bin\Debug\Otel.BLL.pdb
+C:\Users\Sema\Desktop\Yeni klasör\OtelGrupProjesi\Otel.BLL\bin\Debug\Otel.DAL.dll
+C:\Users\Sema\Desktop\Yeni klasör\OtelGrupProjesi\Otel.BLL\bin\Debug\Otel.Entities.dll
+C:\Users\Sema\Desktop\Yeni klasör\OtelGrupProjesi\Otel.BLL\bin\Debug\Otel.DAL.pdb
+C:\Users\Sema\Desktop\Yeni klasör\OtelGrupProjesi\Otel.BLL\bin\Debug\Otel.DAL.dll.config
+C:\Users\Sema\Desktop\Yeni klasör\OtelGrupProjesi\Otel.BLL\bin\Debug\Otel.Entities.pdb
+C:\Users\Sema\Desktop\Yeni klasör\OtelGrupProjesi\Otel.BLL\obj\Debug\Otel.BLL.csprojAssemblyReference.cache
+C:\Users\Sema\Desktop\Yeni klasör\OtelGrupProjesi\Otel.BLL\obj\Debug\Otel.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Sema\Desktop\Yeni klasör\OtelGrupProjesi\Otel.BLL\obj\Debug\Otel.BLL.csproj.CopyComplete
+C:\Users\Sema\Desktop\Yeni klasör\OtelGrupProjesi\Otel.BLL\obj\Debug\Otel.BLL.dll
+C:\Users\Sema\Desktop\Yeni klasör\OtelGrupProjesi\Otel.BLL\obj\Debug\Otel.BLL.pdb

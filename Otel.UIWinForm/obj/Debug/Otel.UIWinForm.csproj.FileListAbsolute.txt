@@ -1,0 +1,144 @@
+D:\Bilge Adam\VS Kodlar\OtelGrupProjesi\Otel.UIWinForm\bin\Debug\Otel.UIWinForm.exe.config
+D:\Bilge Adam\VS Kodlar\OtelGrupProjesi\Otel.UIWinForm\bin\Debug\Otel.UIWinForm.exe
+D:\Bilge Adam\VS Kodlar\OtelGrupProjesi\Otel.UIWinForm\bin\Debug\Otel.UIWinForm.pdb
+D:\Bilge Adam\VS Kodlar\OtelGrupProjesi\Otel.UIWinForm\bin\Debug\Otel.BLL.dll
+D:\Bilge Adam\VS Kodlar\OtelGrupProjesi\Otel.UIWinForm\bin\Debug\Otel.Entities.dll
+D:\Bilge Adam\VS Kodlar\OtelGrupProjesi\Otel.UIWinForm\bin\Debug\Otel.DAL.dll
+D:\Bilge Adam\VS Kodlar\OtelGrupProjesi\Otel.UIWinForm\bin\Debug\Otel.BLL.pdb
+D:\Bilge Adam\VS Kodlar\OtelGrupProjesi\Otel.UIWinForm\bin\Debug\Otel.Entities.pdb
+D:\Bilge Adam\VS Kodlar\OtelGrupProjesi\Otel.UIWinForm\bin\Debug\Otel.DAL.pdb
+D:\Bilge Adam\VS Kodlar\OtelGrupProjesi\Otel.UIWinForm\bin\Debug\Otel.DAL.dll.config
+D:\Bilge Adam\VS Kodlar\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.csprojResolveAssemblyReference.cache
+D:\Bilge Adam\VS Kodlar\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.Properties.Resources.resources
+D:\Bilge Adam\VS Kodlar\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.csproj.GenerateResource.cache
+D:\Bilge Adam\VS Kodlar\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.csproj.CoreCompileInputs.cache
+D:\Bilge Adam\VS Kodlar\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.csproj.CopyComplete
+D:\Bilge Adam\VS Kodlar\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.exe
+D:\Bilge Adam\VS Kodlar\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.pdb
+D:\Bilge Adam\VS Kodlar\OtelGrupProjesi\Otel.UIWinForm\bin\Debug\MaterialSkin.dll
+D:\Bilge Adam\VS Kodlar\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.frmUyeGiris.resources
+D:\Bilge Adam\VS Kodlar\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.frmRezervasyon.resources
+D:\Bilge Adam\VS Kodlar\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.frmUyeKayit.resources
+D:\Bilge Adam\VS Kodlar\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.frmYeniRezervasyon.resources
+D:\Bilge Adam\VS Kodlar\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.frmYeniRezervasyonOnay.resources
+D:\Bilge Adam\VS Kodlar\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.frmYoneticiPaneli.resources
+C:\Users\kaan.kilavuz\Desktop\New folder\OtelGrupProjesi\Otel.UIWinForm\bin\Debug\Otel.UIWinForm.exe.config
+C:\Users\kaan.kilavuz\Desktop\New folder\OtelGrupProjesi\Otel.UIWinForm\bin\Debug\Otel.UIWinForm.exe
+C:\Users\kaan.kilavuz\Desktop\New folder\OtelGrupProjesi\Otel.UIWinForm\bin\Debug\Otel.UIWinForm.pdb
+C:\Users\kaan.kilavuz\Desktop\New folder\OtelGrupProjesi\Otel.UIWinForm\bin\Debug\MaterialSkin.dll
+C:\Users\kaan.kilavuz\Desktop\New folder\OtelGrupProjesi\Otel.UIWinForm\bin\Debug\Otel.BLL.dll
+C:\Users\kaan.kilavuz\Desktop\New folder\OtelGrupProjesi\Otel.UIWinForm\bin\Debug\Otel.Entities.dll
+C:\Users\kaan.kilavuz\Desktop\New folder\OtelGrupProjesi\Otel.UIWinForm\bin\Debug\Otel.DAL.dll
+C:\Users\kaan.kilavuz\Desktop\New folder\OtelGrupProjesi\Otel.UIWinForm\bin\Debug\Otel.BLL.pdb
+C:\Users\kaan.kilavuz\Desktop\New folder\OtelGrupProjesi\Otel.UIWinForm\bin\Debug\Otel.Entities.pdb
+C:\Users\kaan.kilavuz\Desktop\New folder\OtelGrupProjesi\Otel.UIWinForm\bin\Debug\Otel.DAL.pdb
+C:\Users\kaan.kilavuz\Desktop\New folder\OtelGrupProjesi\Otel.UIWinForm\bin\Debug\Otel.DAL.dll.config
+C:\Users\kaan.kilavuz\Desktop\New folder\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.csprojAssemblyReference.cache
+C:\Users\kaan.kilavuz\Desktop\New folder\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.frmRezervasyon.resources
+C:\Users\kaan.kilavuz\Desktop\New folder\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.frmUyeGiris.resources
+C:\Users\kaan.kilavuz\Desktop\New folder\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.frmUyeKayit.resources
+C:\Users\kaan.kilavuz\Desktop\New folder\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.frmYeniRezervasyon.resources
+C:\Users\kaan.kilavuz\Desktop\New folder\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.frmYeniRezervasyonOnay.resources
+C:\Users\kaan.kilavuz\Desktop\New folder\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.frmYoneticiPaneli.resources
+C:\Users\kaan.kilavuz\Desktop\New folder\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.Properties.Resources.resources
+C:\Users\kaan.kilavuz\Desktop\New folder\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.csproj.GenerateResource.cache
+C:\Users\kaan.kilavuz\Desktop\New folder\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.csproj.CoreCompileInputs.cache
+C:\Users\kaan.kilavuz\Desktop\New folder\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.csproj.CopyComplete
+C:\Users\kaan.kilavuz\Desktop\New folder\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.exe
+C:\Users\kaan.kilavuz\Desktop\New folder\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.pdb
+C:\Users\a-col\OneDrive\Masaüstü\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\bin\Debug\Otel.UIWinForm.exe.config
+C:\Users\a-col\OneDrive\Masaüstü\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\bin\Debug\Otel.UIWinForm.exe
+C:\Users\a-col\OneDrive\Masaüstü\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\bin\Debug\Otel.UIWinForm.pdb
+C:\Users\a-col\OneDrive\Masaüstü\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\bin\Debug\MaterialSkin.dll
+C:\Users\a-col\OneDrive\Masaüstü\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\bin\Debug\Otel.BLL.dll
+C:\Users\a-col\OneDrive\Masaüstü\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\bin\Debug\Otel.Entities.dll
+C:\Users\a-col\OneDrive\Masaüstü\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\bin\Debug\Otel.DAL.dll
+C:\Users\a-col\OneDrive\Masaüstü\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\bin\Debug\Otel.BLL.pdb
+C:\Users\a-col\OneDrive\Masaüstü\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\bin\Debug\Otel.Entities.pdb
+C:\Users\a-col\OneDrive\Masaüstü\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\bin\Debug\Otel.DAL.pdb
+C:\Users\a-col\OneDrive\Masaüstü\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\bin\Debug\Otel.DAL.dll.config
+C:\Users\a-col\OneDrive\Masaüstü\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.csprojAssemblyReference.cache
+C:\Users\a-col\OneDrive\Masaüstü\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.frmRezervasyon.resources
+C:\Users\a-col\OneDrive\Masaüstü\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.frmUyeGiris.resources
+C:\Users\a-col\OneDrive\Masaüstü\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.frmUyeKayit.resources
+C:\Users\a-col\OneDrive\Masaüstü\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.frmYeniRezervasyon.resources
+C:\Users\a-col\OneDrive\Masaüstü\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.frmYeniRezervasyonOnay.resources
+C:\Users\a-col\OneDrive\Masaüstü\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.frmYoneticiPaneli.resources
+C:\Users\a-col\OneDrive\Masaüstü\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.Properties.Resources.resources
+C:\Users\a-col\OneDrive\Masaüstü\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.csproj.GenerateResource.cache
+C:\Users\a-col\OneDrive\Masaüstü\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.csproj.CoreCompileInputs.cache
+C:\Users\a-col\OneDrive\Masaüstü\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.csproj.CopyComplete
+C:\Users\a-col\OneDrive\Masaüstü\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.exe
+C:\Users\a-col\OneDrive\Masaüstü\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.pdb
+C:\Users\kaan.kilavuz\Desktop\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\bin\Debug\Otel.UIWinForm.exe.config
+C:\Users\kaan.kilavuz\Desktop\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\bin\Debug\Otel.UIWinForm.exe
+C:\Users\kaan.kilavuz\Desktop\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\bin\Debug\Otel.UIWinForm.pdb
+C:\Users\kaan.kilavuz\Desktop\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\bin\Debug\MaterialSkin.dll
+C:\Users\kaan.kilavuz\Desktop\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\bin\Debug\Otel.BLL.dll
+C:\Users\kaan.kilavuz\Desktop\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\bin\Debug\Otel.Entities.dll
+C:\Users\kaan.kilavuz\Desktop\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\bin\Debug\Otel.DAL.dll
+C:\Users\kaan.kilavuz\Desktop\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\bin\Debug\Otel.BLL.pdb
+C:\Users\kaan.kilavuz\Desktop\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\bin\Debug\Otel.Entities.pdb
+C:\Users\kaan.kilavuz\Desktop\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\bin\Debug\Otel.DAL.pdb
+C:\Users\kaan.kilavuz\Desktop\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\bin\Debug\Otel.DAL.dll.config
+C:\Users\kaan.kilavuz\Desktop\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.csprojAssemblyReference.cache
+C:\Users\kaan.kilavuz\Desktop\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.frmRezervasyon.resources
+C:\Users\kaan.kilavuz\Desktop\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.frmUyeGiris.resources
+C:\Users\kaan.kilavuz\Desktop\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.frmUyeKayit.resources
+C:\Users\kaan.kilavuz\Desktop\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.frmYeniRezervasyon.resources
+C:\Users\kaan.kilavuz\Desktop\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.frmYeniRezervasyonOnay.resources
+C:\Users\kaan.kilavuz\Desktop\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.frmYoneticiPaneli.resources
+C:\Users\kaan.kilavuz\Desktop\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.Properties.Resources.resources
+C:\Users\kaan.kilavuz\Desktop\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.csproj.GenerateResource.cache
+C:\Users\kaan.kilavuz\Desktop\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.csproj.CoreCompileInputs.cache
+C:\Users\kaan.kilavuz\Desktop\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.csproj.CopyComplete
+C:\Users\kaan.kilavuz\Desktop\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.exe
+C:\Users\kaan.kilavuz\Desktop\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.pdb
+C:\Users\Esra\Desktop\Son_Vesiyon\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\bin\Debug\Otel.UIWinForm.exe.config
+C:\Users\Esra\Desktop\Son_Vesiyon\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\bin\Debug\Otel.UIWinForm.exe
+C:\Users\Esra\Desktop\Son_Vesiyon\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\bin\Debug\Otel.UIWinForm.pdb
+C:\Users\Esra\Desktop\Son_Vesiyon\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\bin\Debug\MaterialSkin.dll
+C:\Users\Esra\Desktop\Son_Vesiyon\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\bin\Debug\Otel.BLL.dll
+C:\Users\Esra\Desktop\Son_Vesiyon\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\bin\Debug\Otel.Entities.dll
+C:\Users\Esra\Desktop\Son_Vesiyon\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\bin\Debug\Otel.DAL.dll
+C:\Users\Esra\Desktop\Son_Vesiyon\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\bin\Debug\Otel.BLL.pdb
+C:\Users\Esra\Desktop\Son_Vesiyon\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\bin\Debug\Otel.Entities.pdb
+C:\Users\Esra\Desktop\Son_Vesiyon\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\bin\Debug\Otel.DAL.pdb
+C:\Users\Esra\Desktop\Son_Vesiyon\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\bin\Debug\Otel.DAL.dll.config
+C:\Users\Esra\Desktop\Son_Vesiyon\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.csprojResolveAssemblyReference.cache
+C:\Users\Esra\Desktop\Son_Vesiyon\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.frmRezervasyon.resources
+C:\Users\Esra\Desktop\Son_Vesiyon\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.frmUyeGiris.resources
+C:\Users\Esra\Desktop\Son_Vesiyon\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.frmUyeKayit.resources
+C:\Users\Esra\Desktop\Son_Vesiyon\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.frmYeniRezervasyon.resources
+C:\Users\Esra\Desktop\Son_Vesiyon\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.frmYeniRezervasyonOnay.resources
+C:\Users\Esra\Desktop\Son_Vesiyon\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.frmYoneticiPaneli.resources
+C:\Users\Esra\Desktop\Son_Vesiyon\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.Properties.Resources.resources
+C:\Users\Esra\Desktop\Son_Vesiyon\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.csproj.GenerateResource.cache
+C:\Users\Esra\Desktop\Son_Vesiyon\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.csproj.CoreCompileInputs.cache
+C:\Users\Esra\Desktop\Son_Vesiyon\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.csproj.CopyComplete
+C:\Users\Esra\Desktop\Son_Vesiyon\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.exe
+C:\Users\Esra\Desktop\Son_Vesiyon\Son Vesiyon\En son\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.pdb
+C:\Users\Sema\Desktop\Yeni klasör\OtelGrupProjesi\Otel.UIWinForm\bin\Debug\Otel.UIWinForm.exe.config
+C:\Users\Sema\Desktop\Yeni klasör\OtelGrupProjesi\Otel.UIWinForm\bin\Debug\Otel.UIWinForm.exe
+C:\Users\Sema\Desktop\Yeni klasör\OtelGrupProjesi\Otel.UIWinForm\bin\Debug\Otel.UIWinForm.pdb
+C:\Users\Sema\Desktop\Yeni klasör\OtelGrupProjesi\Otel.UIWinForm\bin\Debug\MaterialSkin.dll
+C:\Users\Sema\Desktop\Yeni klasör\OtelGrupProjesi\Otel.UIWinForm\bin\Debug\Otel.BLL.dll
+C:\Users\Sema\Desktop\Yeni klasör\OtelGrupProjesi\Otel.UIWinForm\bin\Debug\Otel.Entities.dll
+C:\Users\Sema\Desktop\Yeni klasör\OtelGrupProjesi\Otel.UIWinForm\bin\Debug\Otel.DAL.dll
+C:\Users\Sema\Desktop\Yeni klasör\OtelGrupProjesi\Otel.UIWinForm\bin\Debug\Otel.BLL.pdb
+C:\Users\Sema\Desktop\Yeni klasör\OtelGrupProjesi\Otel.UIWinForm\bin\Debug\Otel.Entities.pdb
+C:\Users\Sema\Desktop\Yeni klasör\OtelGrupProjesi\Otel.UIWinForm\bin\Debug\Otel.DAL.pdb
+C:\Users\Sema\Desktop\Yeni klasör\OtelGrupProjesi\Otel.UIWinForm\bin\Debug\Otel.DAL.dll.config
+C:\Users\Sema\Desktop\Yeni klasör\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.csprojAssemblyReference.cache
+C:\Users\Sema\Desktop\Yeni klasör\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.frmRezervasyon.resources
+C:\Users\Sema\Desktop\Yeni klasör\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.frmUyeGiris.resources
+C:\Users\Sema\Desktop\Yeni klasör\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.frmUyeKayit.resources
+C:\Users\Sema\Desktop\Yeni klasör\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.frmYeniRezervasyon.resources
+C:\Users\Sema\Desktop\Yeni klasör\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.frmYeniRezervasyonOnay.resources
+C:\Users\Sema\Desktop\Yeni klasör\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.frmYoneticiPaneli.resources
+C:\Users\Sema\Desktop\Yeni klasör\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.Properties.Resources.resources
+C:\Users\Sema\Desktop\Yeni klasör\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.csproj.GenerateResource.cache
+C:\Users\Sema\Desktop\Yeni klasör\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.csproj.CoreCompileInputs.cache
+C:\Users\Sema\Desktop\Yeni klasör\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.csproj.CopyComplete
+C:\Users\Sema\Desktop\Yeni klasör\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.exe
+C:\Users\Sema\Desktop\Yeni klasör\OtelGrupProjesi\Otel.UIWinForm\obj\Debug\Otel.UIWinForm.pdb

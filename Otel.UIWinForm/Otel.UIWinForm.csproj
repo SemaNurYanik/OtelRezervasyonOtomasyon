@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0DB0B661-EFAD-4B6E-A4F7-5F353138FE65}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Otel.UIWinForm</RootNamespace>
+    <AssemblyName>Otel.UIWinForm</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MaterialSkin, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MaterialSkin.0.2.1\lib\MaterialSkin.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmRezervasyon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRezervasyon.Designer.cs">
+      <DependentUpon>frmRezervasyon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUyeGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUyeGiris.Designer.cs">
+      <DependentUpon>frmUyeGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUyeKayit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUyeKayit.Designer.cs">
+      <DependentUpon>frmUyeKayit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmYeniRezervasyon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmYeniRezervasyon.Designer.cs">
+      <DependentUpon>frmYeniRezervasyon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmYeniRezervasyonOnay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmYeniRezervasyonOnay.Designer.cs">
+      <DependentUpon>frmYeniRezervasyonOnay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmYoneticiPaneli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmYoneticiPaneli.Designer.cs">
+      <DependentUpon>frmYoneticiPaneli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RezervasyonGecmisGuncelle.cs" />
+    <EmbeddedResource Include="frmRezervasyon.resx">
+      <DependentUpon>frmRezervasyon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUyeGiris.resx">
+      <DependentUpon>frmUyeGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUyeKayit.resx">
+      <DependentUpon>frmUyeKayit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmYeniRezervasyon.resx">
+      <DependentUpon>frmYeniRezervasyon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmYeniRezervasyonOnay.resx">
+      <DependentUpon>frmYeniRezervasyonOnay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmYoneticiPaneli.resx">
+      <DependentUpon>frmYoneticiPaneli.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Otel.BLL\Otel.BLL.csproj">
+      <Project>{DEDAB8F2-4550-4043-97BA-82D10C91336E}</Project>
+      <Name>Otel.BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Otel.Entities\Otel.Entities.csproj">
+      <Project>{D794CF2B-C999-440B-9EDC-0917F66EB8E8}</Project>
+      <Name>Otel.Entities</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\btnEdit.png" />
+    <Content Include="Resources\edit.png" />
+    <Content Include="Resources\otelLogo.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
